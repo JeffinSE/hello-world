@@ -1,2 +1,4 @@
 # hello-world
-just trial for a new account
+
+hi there,
+this is a sample to explain how to creat a branch in Github and submit it.
