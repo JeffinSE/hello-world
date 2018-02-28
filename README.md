@@ -1,2 +1,2 @@
 # hello-world
-try for a new account
+just trial for a new account
